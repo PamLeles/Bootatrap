@@ -1,0 +1,47 @@
+		Aula 1: Aprenda sobre o Framework Bootstrap
+
+- utilizando HTML5 e CSS3
+- utilizar qualquer editor de texto
+- subir o site pro github
+	
+		 Objetivos da aula 
+
+- aprofundar mais no HTML
+- Aprender a utilizar o Bootstrap
+- construir um site utilizando HTML5, CSS3 e Bootstrap
+
+	       	-- Bootstrap--
+Um Framework para desenvolvimento de sites responsivos.
+Conteém um vasta biblioteca de componentes que facilita e agiliza
+o desenvolvimento de páginas web.
+Muito utilizado no Desenvolvimento do Front-end.
+
+		--- durante aula---
+feito Download do bootstrap : https://getbootstrap.com/
+feito repositorio no github: aula-bootstrap-dio
+Utilizado o site do bootstrap para utilizar docs do sites.
+
+
+
+		**Comandos & termos utilizandos**
+<nav > </nav>
+<a></a>
+<div></div>
+<ul></ul>
+<li></li>
+<img>
+<section>
+<selection></selection>
+<footer></footer>
+#id
+.class
+"navbar"
+"nav-item"
+"nav-link"
+"container"
+"container-fluid"
+"rounded-circle"
+"row"
+"col-lg-4"
+
+
